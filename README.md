@@ -28,7 +28,7 @@ style="border:8px; border-style: solid; border-color:#003366; padding: 0em;;"></
 
     <a href="README.md" class="active"> Home </a> &nbsp 
     <a href="fixtures" class="active"> Fixtures </a> &nbsp 
-    <a href="https://matteo122334.w3spaces.com/gallery.html" class="active"> Gallery </a> &nbsp
+    <a href="Gallery" class="active"> Gallery </a> &nbsp
     <a href="https://matteo122334.w3spaces.com/author.html" class="active"> Author </a>
 
 </div>
