@@ -3,7 +3,7 @@
 <head>
 	<title> SSLazio Fan Page </title>
    <meta name="SSLazioFanPage" content="SSLazio News">
-   <link rel="stylesheet" href="https://matteo122334.w3spaces.com/Cssdocument.css">
+   <link rel="stylesheet" href="stylesheet.css">
 	</head>
 
 
