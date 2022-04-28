@@ -26,10 +26,10 @@ style="border:8px; border-style: solid; border-color:#003366; padding: 0em;;"></
 <center> 
   <div class="topnav-centered" style="font-size:25px; color:#006666; font-weight:bold; font-family: Georgia, Times New Roman, serif;text-align: center;">
 
-    <a href="README.md" class="active"> Home </a> &nbsp 
-    <a href="fixtures" class="active"> Fixtures </a> &nbsp 
+    <a href="Index.md" class="active"> Home </a> &nbsp 
+    <a href="Fixtures" class="active"> Fixtures </a> &nbsp 
     <a href="Gallery" class="active"> Gallery </a> &nbsp
-    <a href="https://matteo122334.w3spaces.com/author.html" class="active"> Author </a>
+    <a href="Author" class="active"> Author </a>
 
 </div>
 
