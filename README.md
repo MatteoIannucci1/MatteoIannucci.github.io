@@ -140,7 +140,7 @@ style="border:8px; border-style: solid; border-color:#003366; padding: 0em;;"></
 
 <div class="container">
   <center>
-  <img src="https://matteo122334.w3spaces.com/Images/S.S._Lazio_Logo.png" alt="SSLazio Logo" style="width:40%;">
+  <img src="Images/S.S._Lazio Logo.png" alt="SSLazio Logo" style="width:40%;">
 </div>
 
 <p style="font-size:20px; color:#003366; font-weight:lighter; font-family: Georgia, Times New Roman, serif; text-align: center;">
