@@ -37,7 +37,7 @@ style="border:8px; border-style: solid; border-color:#003366; padding: 0em;;"></
 
 <hr> 
 <div class="container">
-  <img src="https://matteo122334.w3spaces.com/Images/Lazio.jpg" alt="SSLazio Team" style="width:80%;">
+  <img src="Images/Lazio.jpg" alt="SSLazio Team" style="width:80%;">
 </div>
 
 &nbsp 
