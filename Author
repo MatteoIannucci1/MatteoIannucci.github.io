@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> SSLazio Fan Page </title>
+   <meta name="SSLazioFanPage" content="SSLazio News">
+   <link rel="stylesheet" href="https://matteo122334.w3spaces.com/Cssdocument.css">
+	</head>
+
+
+<div class="header" style="width:98%">
+<a href="https://matteo122334.w3spaces.com/SSLazioFanPage.html">
+<img src="https://matteo122334.w3spaces.com/Images/SSLazio_Fan_Page.jpg" alt="SSLazio FanPage Homepage" 
+style="border:8px; border-style: solid; border-color:#003366; padding: 0em;;"></a>
+</div>
+
+
+&nbsp 
+
+
+<!-- Top navigation -->
+<div class="topnav" 
+
+
+ style="font-size:28px; color:#666666; font-weight:bold; font-family: Georgia, Times New Roman, serif;text-align: center;">
+
+<center> 
+  <div class="topnav-centered" style="font-size:25px; color:#006666; font-weight:bold; font-family: Georgia, Times New Roman, serif;text-align: center;">
+
+    <a href="https://matteo122334.w3spaces.com/SSLazioFanPage.html" class="active"> Home </a> &nbsp 
+    <a href="https://matteo122334.w3spaces.com/fixtures.html" class="active"> Fixtures </a> &nbsp 
+    <a href="https://matteo122334.w3spaces.com/gallery.html" class="active"> Gallery </a> &nbsp
+    <a href="https://matteo122334.w3spaces.com/author.html" class="active"> Author </a>
+</div>
+
+
+
+<h2> <i> About Me </i></h2>
+<hr> 
+
+&nbsp
+<div class="container">
+  <img src="https://matteo122334.w3spaces.com/Images/Author_Lazio.jpg" alt="SSLazio Team" style="width:70%;">
+</div>
+&nbsp
+
+
+<p style="font-size:20px; color:#003366; font-weight:lighter; font-family: Georgia, Times New Roman, serif;text-align: center; line-height: 30px;">
+       My name is Matteo and I am a lifelong Laziale! <br>
+       I am a Lazio fan based in Ireland and enjoy watching my favourite football team on my free time. <br>
+       Looking forward to go back to the Olympic Stadium!
+       </p>
+
+<hr> 
+&nbsp
+
+<h2> Contact Details </h2>
+
+<p style="font-size:20px; color:#003366; font-weight:lighter; font-family: Georgia, Times New Roman, serif;text-align: center; line-height: 30px;">
+       For any queries or additional content you would like to see on this SSLazio FanPage contant me at the following email address.
+       </p>
+
+<p style="font-size:20px; color:#000000; font-weight:lighter; font-family: Georgia, Times New Roman, serif;text-align: center; line-height: 20px">
+ Email Address: <a href="mailto: matteoiannucci87@gmail.com" target="_blank">
+Matteoiannucci@gmail.com </a></p>
+
+
+<p style="font-size:15px; color:#000000; font-weight:lighter; font-family: Georgia, Times New Roman, serif;text-align: center; line-height: 20px">
+Written by Matteo Iannucci <br>
+Sligo, Co. Sligo <br>
+Ireland 
+</p> 
+
+
+<style>
+.footer {
+  position: margin-bottom;
+  height: 60px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  text-size: 15px; 
+   line-height: 2.0;
+}
+
+</style>
+<div class="footer">
+  <p> S.S.Lazio Fan Page developed by Matteo Iannucci <br> 
+     
+</div>
+</body>
+</html>
